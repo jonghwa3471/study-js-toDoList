@@ -4,6 +4,8 @@
 https://jonghwa3471.github.io/study-js-toDoList/
 
 ## 🖥 Preview
+![Uploading image.png…]()
+
 
 ## 🔥 Stack
 
