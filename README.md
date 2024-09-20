@@ -1,7 +1,7 @@
 # ToDoList-Clone
 
 ## 🔗 Demo
-https://jonghwa3471.github.io/study-js-toDoList/
+https://jonghwa3471.github.io/study-js-toDoList-clone/
 
 ## 🖥 Preview
 <img src="preview.png"/>
